@@ -2,7 +2,7 @@
 
 This is React application made by following tutorial: https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=1
 
-This is a very simple web-app, where you can add, edit and delete blogs. The idea was to just learn the basics of react. The front page has list of all the blogs and some random
+This is a simple web-app, where you can add, edit and delete blogs. The idea was to just learn the basics of react. The front page has list of all the blogs and some random
 buttons I made just for fun.
 
 ![pic_1](https://user-images.githubusercontent.com/55877751/150804924-9aa3e1d2-ef56-445c-b4c6-512a326cd816.png)
